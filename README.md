@@ -60,5 +60,5 @@ prajwal — software engineer who likes systems that don’t break
 ## 📫 Contact
 
 * Email: **[hdprajwal01@gmail.com](mailto:hdprajwal01@gmail.com)**
-* Website: **hdprajwal.dev**
-* LinkedIn: **/in/hdprajwal**
+* Website: **[hdprajwal.dev](https://hdprajwal.dev)**
+* LinkedIn: **[/in/hdprajwal](https://www.linkedin.com/in/hdprajwal/)**
