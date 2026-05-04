@@ -2,11 +2,11 @@ Hi, I'm Prajwal
 
 AI engineer building agent tooling and applied ML, with three years of backend and full-stack at Opslyft.
 
-## Publication
+### Publication
 
 - [Re-Evaluating Android Malware Detection: Tabular Features, Vision Models, and Ensembles](https://doi.org/10.3390/electronics15030544) (MDPI Electronics, 2026)
 
-## Projects
+### Projects
 
 - Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
 - [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first desktop coding agent with worktree isolation, local history, and scheduled automations.
