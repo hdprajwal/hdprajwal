@@ -9,7 +9,8 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 ### Projects
 
 - Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
-- [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first desktop coding agent with worktree isolation, local history, and scheduled automations.
+- [Annoying UI](https://github.com/hdprajwal/annoying-ui): A gallery of intentionally hostile UI components. Volume sliders that scroll sideways, Cancel buttons that dodge the cursor, CAPTCHAs built from un-typable glyphs. Each one is interactive, with its source rendered below.
+- [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first workspace for running several CLI coding agents (Claude Code, Codex, Gemini CLI) side by side per project, so you can hand off tasks between them without juggling terminal tabs or tmux.
 - [Gitwise](https://github.com/hdprajwal/gitwise): CLI that turns staged diffs into commit messages and plain English into branch names.
 - [Multimodal Malware Detection](https://github.com/hdprajwal/multimodal-malware-detection): Master's thesis comparing static-feature and visual-bytecode classifiers for malware detection.
 - [Guardscribe](https://github.com/hdprajwal/Guardscribe): Real-time speech moderation pipeline that masks toxic spans under a 400ms end-to-end latency budget.
