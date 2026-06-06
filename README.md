@@ -8,6 +8,7 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 
 ### Projects
 
+- [emberd](https://github.com/hdprajwal/emberd): Firecracker-based sandboxing runtime that runs AI-agent tool calls inside isolated microVMs. Local-first and open source, with docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
 - Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
 - [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first workspace for running several CLI coding agents (Claude Code, Codex, Gemini CLI) side by side per project, so you can hand off tasks between them without juggling terminal tabs or tmux.
 - [Gitwise](https://github.com/hdprajwal/gitwise): CLI that turns staged diffs into commit messages and plain English into branch names.
