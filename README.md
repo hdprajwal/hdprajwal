@@ -8,6 +8,7 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 
 ### Projects
 
+- [BaitBench](https://github.com/hdprajwal/baitbench): a benchmark that checks how often an LLM, writing a job application for you, falls for a prompt injection hidden in the job post. It scores models on a resistance leaderboard, live at [baitbench.hdprajwal.dev](https://baitbench.hdprajwal.dev).
 - [emberd](https://github.com/hdprajwal/emberd): Firecracker-based sandboxing runtime that runs AI-agent tool calls inside isolated microVMs. Local-first and open source, with docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
 - Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
 - [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first workspace for running several CLI coding agents (Claude Code, Codex, Gemini CLI) side by side per project, so you can hand off tasks between them without juggling terminal tabs or tmux.
