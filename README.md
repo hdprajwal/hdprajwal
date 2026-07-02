@@ -12,6 +12,7 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 - [emberd](https://github.com/hdprajwal/emberd): Firecracker-based sandboxing runtime that runs AI-agent tool calls inside isolated microVMs. Local-first and open source, with docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
 - Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
 - [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first workspace for running several CLI coding agents (Claude Code, Codex, Gemini CLI) side by side per project, so you can hand off tasks between them without juggling terminal tabs or tmux.
+- [codexpass](https://github.com/hdprajwal/codexpass): CLI that lets your other tools use the OpenAI credential your Codex login already saved. Print it as shell exports, grab the raw token, or run a small local proxy so editors like Zed can use your ChatGPT subscription.
 - [Gitwise](https://github.com/hdprajwal/gitwise): CLI that turns staged diffs into commit messages and plain English into branch names.
 - [Multimodal Malware Detection](https://github.com/hdprajwal/multimodal-malware-detection): Master's thesis comparing static-feature and visual-bytecode classifiers for malware detection.
 - [Guardscribe](https://github.com/hdprajwal/Guardscribe): Real-time speech moderation pipeline that masks toxic spans under a 400ms end-to-end latency budget.
