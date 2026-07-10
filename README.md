@@ -2,21 +2,23 @@ Hi, I'm Prajwal
 
 AI engineer building agent tooling and applied ML, with three years of backend and full-stack at Opslyft.
 
+[hdprajwal.dev](https://hdprajwal.dev) · [LinkedIn](https://www.linkedin.com/in/hdprajwal) · [X](https://x.com/_hdprajwal)
+
 ### Publication
 
 - [Re-Evaluating Android Malware Detection: Tabular Features, Vision Models, and Ensembles](https://doi.org/10.3390/electronics15030544) (MDPI Electronics, 2026)
 
 ### Projects
 
-- [BaitBench](https://github.com/hdprajwal/baitbench): a benchmark that checks how often an LLM, writing a job application for you, falls for a prompt injection hidden in the job post. It scores models on a resistance leaderboard, live at [baitbench.hdprajwal.dev](https://baitbench.hdprajwal.dev).
-- [emberd](https://github.com/hdprajwal/emberd): Firecracker-based sandboxing runtime that runs AI-agent tool calls inside isolated microVMs. Local-first and open source, with docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
-- Agent-chaos: Chaos-engineering harness for LLM agents that injects deterministic faults at four well-defined seams. (work in progress)
-- [open-studio](https://github.com/hdprajwal/open-studio): make slides, LinkedIn carousels, story graphics, and thumbnails by describing them to your coding agent. It writes the pages, sizes everything for the platform it's going to, and gives you files ready to present or post. Built on Yiwei Ho's open-slide.
-- [QuackCode](https://github.com/hdprajwal/quackcode): Linux-first workspace for running several CLI coding agents (Claude Code, Codex, Gemini CLI) side by side per project, so you can hand off tasks between them without juggling terminal tabs or tmux.
-- [codexpass](https://github.com/hdprajwal/codexpass): CLI that lets your other tools use the OpenAI credential your Codex login already saved. Print it as shell exports, grab the raw token, or run a small local proxy so editors like Zed can use your ChatGPT subscription.
+- [open-frame](https://github.com/hdprajwal/open-frame): make slides, carousels, and thumbnails by describing them to your coding agent, docs at [open-frame.dev](https://open-frame.dev).
+- [emberd](https://github.com/hdprajwal/emberd): sandboxing runtime that runs AI-agent tool calls inside Firecracker microVMs, docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
+- [BaitBench](https://github.com/hdprajwal/baitbench): benchmark for how often LLMs fall for prompt injections hidden in job posts, live at [baitbench.hdprajwal.dev](https://baitbench.hdprajwal.dev).
+- [QuackCode](https://github.com/hdprajwal/quackcode): workspace for running several CLI coding agents side by side per project.
+- [codexpass](https://github.com/hdprajwal/codexpass): CLI that lets your other tools use the OpenAI credential your Codex login already saved.
+- Agent-chaos: a tool that breaks LLM agents on purpose to check they recover correctly. Not public yet.
 - [Gitwise](https://github.com/hdprajwal/gitwise): CLI that turns staged diffs into commit messages and plain English into branch names.
-- [Multimodal Malware Detection](https://github.com/hdprajwal/multimodal-malware-detection): Master's thesis comparing static-feature and visual-bytecode classifiers for malware detection.
-- [Guardscribe](https://github.com/hdprajwal/Guardscribe): Real-time speech moderation pipeline that masks toxic spans under a 400ms end-to-end latency budget.
+- [Multimodal Malware Detection](https://github.com/hdprajwal/multimodal-malware-detection): Master's thesis comparing static-feature and visual-bytecode malware classifiers.
+- [Guardscribe](https://github.com/hdprajwal/Guardscribe): real-time speech moderation that masks toxic spans in under 400ms.
 
 ### Side quests
 
