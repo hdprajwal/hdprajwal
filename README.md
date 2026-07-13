@@ -14,7 +14,7 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 - [emberd](https://github.com/hdprajwal/emberd): sandboxing runtime that runs AI-agent tool calls inside Firecracker microVMs, docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
 - [BaitBench](https://github.com/hdprajwal/baitbench): benchmark for how often LLMs fall for prompt injections hidden in job posts, live at [baitbench.hdprajwal.dev](https://baitbench.hdprajwal.dev).
 - [QuackCode](https://github.com/hdprajwal/quackcode): workspace for running several CLI coding agents side by side per project.
-- [codexpass](https://github.com/hdprajwal/codexpass): CLI that lets your other tools use the OpenAI credential your Codex login already saved.
+- [codexpass](https://github.com/hdprajwal/codexpass): CLI that lets your other tools use the OpenAI credential your Codex login already saved, docs at [codexpass.hdprajwal.dev](https://codexpass.hdprajwal.dev).
 - Agent-chaos: a tool that breaks LLM agents on purpose to check they recover correctly. Not public yet.
 - [Gitwise](https://github.com/hdprajwal/gitwise): CLI that turns staged diffs into commit messages and plain English into branch names.
 - [Multimodal Malware Detection](https://github.com/hdprajwal/multimodal-malware-detection): Master's thesis comparing static-feature and visual-bytecode malware classifiers.
