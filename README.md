@@ -10,6 +10,7 @@ AI engineer building agent tooling and applied ML, with three years of backend a
 
 ### Projects
 
+- [gh-widgets](https://github.com/hdprajwal/gh-widgets): self-hosted SVG widgets for GitHub READMEs, live at [gh-widgets.hdprajwal.dev](https://gh-widgets.hdprajwal.dev).
 - [open-frame](https://github.com/hdprajwal/open-frame): make slides, carousels, and thumbnails by describing them to your coding agent, docs at [open-frame.dev](https://open-frame.dev).
 - [emberd](https://github.com/hdprajwal/emberd): sandboxing runtime that runs AI-agent tool calls inside Firecracker microVMs, docs at [emberd.hdprajwal.dev](https://emberd.hdprajwal.dev).
 - [BaitBench](https://github.com/hdprajwal/baitbench): benchmark for how often LLMs fall for prompt injections hidden in job posts, live at [baitbench.hdprajwal.dev](https://baitbench.hdprajwal.dev).
